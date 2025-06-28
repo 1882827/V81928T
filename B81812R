@@ -1481,6 +1481,7 @@ pets:AddSwitch("Auto Open Aura", function(bool)
     end
 end)
 
-local credits = window:AddTab("Credits")
+local noteTab = window:AddTab("Credits")
 
-local credits:AddLabel("Script Feito por Sad&Nii")
+noteTab:AddLabel("Script feito por Sad & Nii.")
+noteTab:AddLabel("VTBR")
