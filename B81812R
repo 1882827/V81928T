@@ -21,7 +21,7 @@ local whitelist = {
     ["deltaxz23"] = true,
     ["jonasblox948"] = true,
     ["ainubru66"] = true,
-    ["User19"] = true,
+    ["VTBR_SORTEADO"] = true,
     ["User20"] = true
 }
 
