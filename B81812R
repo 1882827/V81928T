@@ -22,7 +22,22 @@ local whitelist = {
     ["jonasblox948"] = true,
     ["ainubru66"] = true,
     ["VTBR_SORTEADO"] = true,
-    ["VTBR_DAVY8"] = true
+    ["VTBR_DAVY8"] = true,
+    ["miguelcrazy41"] = true,
+    ["user2"] = true,
+    ["user3"] = true,
+    ["user4"] = true,
+    ["user5"] = true,
+    ["user6"] = true,
+    ["user7"] = true,
+    ["user8"] = true,
+    ["user9"] = true,
+    ["user10"] = true,
+    ["user11"] = true,
+    ["user12"] = true,
+    ["user13"] = true,
+    ["user14"] = true,
+    ["user15"] = true
 }
 
 if not whitelist[LocalPlayer.Name] then
